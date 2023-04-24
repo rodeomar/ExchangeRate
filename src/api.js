@@ -1,13 +1,3 @@
-// src/api.js
-// require("dotenv").config()
-
-// import {process} from "process";
-
-
-// console.log(process.env.API_KEY);
-
-
-// const apiKey = process.env.API_KEY;
 const requestOptions = {
   method: 'GET',
   headers: new Headers({
@@ -26,11 +16,6 @@ async function convertCurrency(fromCurrency, toCurrency, amount) {
     return { currencyValue: Error(`Request failed with status ${response.status}: ${error}`), error: true };
 
   }
-
-
-
-
-
 }
 
 export { convertCurrency };

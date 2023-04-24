@@ -1,5 +1,20 @@
 # Exchange Rate
 
+#### By _**Raed Alkhanbasahi**_
+
+## Technologies Used
+
+* HTML
+* JS 
+* CSS
+* babelrc
+* eslintrc 
+* package.json
+* gitigonre
+
+
+## Description
+
 This project is a web application that allows users to convert currencies and view the latest exchange rates. The user can select the base currency and the target currency, enter the amount, and see the converted amount.
 
 # Getting Started
@@ -22,4 +37,8 @@ To use the application, open a web browser and navigate to http://localhost:8080
 # Known Bug
 - None
 
--------
+## License
+
+Please let me know if you have any questions or concerns raed@alkhanbashi.gmail.com
+
+Copyright (c) 2023 Raed Alkhanbashi

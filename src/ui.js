@@ -35,6 +35,4 @@ form.addEventListener('submit', async (event) => {
 
 
   result.innerHTML = `<p id="output">${amount} ${fromCurrency} = ${convertedAmount.currencyValue} ${toCurrency}</p>`;
-
-
 });
